@@ -171,7 +171,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Aditya Soni © 2023 EduConnect</div>
+          <div className="text-center">Made with ❤️ Aviral Jain © 2024 EduConnect</div>
         </div>
       </div>
     </div>
